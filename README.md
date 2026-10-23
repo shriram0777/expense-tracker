@@ -2,7 +2,7 @@
 
 A lightweight web app to record income and expenses and see a monthly, category-wise spending breakdown.
 
-**Live demo:** _add your link here after deploying_
+**Live demo:** _https://shriram0777.github.io/expense-tracker/_
 
 ## Features
 - Add income and expense transactions with category, date and note
